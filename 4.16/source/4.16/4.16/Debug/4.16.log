@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\asus\desktop\4.16\source\main.c(5): warning C4101: 'k': 未參考的區域變數
+c:\users\asus\desktop\4.16\source\main.c(5): warning C4101: 'l': 未參考的區域變數
+  4.16.vcxproj -> C:\Users\ASUS\Desktop\4.16\source\4.16\Debug\4.16.exe
